@@ -1,5 +1,8 @@
 # Integração Oficial — README de Boas-vindas
 
+Este adendo complementa o documento principal:
+[journey-standard.md](./journey-standard.md)
+
 Este adendo faz parte do **Journey Standard** e define oficialmente o uso do **template de boas-vindas** em todos os repositórios do tipo *journey*.
 
 ---
@@ -8,7 +11,7 @@ Este adendo faz parte do **Journey Standard** e define oficialmente o uso do **t
 
 Todo repositório *journey* **deve iniciar seu `README.md` principal** com o bloco de boas-vindas definido no documento:
 
-**`Readme-welcome-template.md`**
+**`Readme_welcome_template.md`**
 
 Este bloco garante:
 
@@ -21,9 +24,11 @@ Este bloco garante:
 ## 🧭 O que pode e o que não pode mudar
 
 ### ✅ Pode mudar
+
 - Apenas o nome do journey (`{{Nome do Journey}}`)
 
 ### ❌ Não deve mudar
+
 - Texto base
 - Estrutura do bloco
 - Tom e mensagem
@@ -38,5 +43,4 @@ A abertura não é apenas estética. Ela serve para:
 - Explicar rapidamente o propósito do repositório
 - Posicionar o journey como parte de um sistema maior
 
-Qualquer exceção a essa regra deve ser **consciente e documentada**.
-
+> Qualquer exceção a essa regra deve ser **consciente e documentada**.

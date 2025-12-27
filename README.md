@@ -8,6 +8,18 @@ Ele **não substitui** os repositórios individuais de cada journey — ele os *
 
 ---
 
+## 🧭 Ordem Recomendada de Leitura
+
+Para compreender o ecossistema **Learning Journey**, recomenda-se a seguinte ordem:
+
+1. **README.md (este arquivo)** — Visão geral do ecossistema
+2. **[journey-standard.md](./journey-standard.md)** — Método e padrão oficial das journeys
+3. **[journey_standard_addendum.md](./journey_standard_addendum.md)** — Regras complementares
+4. **[Filosofia-de-estudo-do-Learning-journey.md](./Filosofia-de-estudo-do-Learning-journey.md)** — Filosofia e diretrizes de estudo
+5. **Templates** — Aplicação prática do padrão
+
+---
+
 ## 🎯 Finalidade
 
 O `learning-journey` existe para:
@@ -31,13 +43,15 @@ Ele atua como:
 
 O conteúdo prático e detalhado vive **dentro de cada journey específica**.
 
+> Se você chegou aqui pela primeira vez, comece pela ordem recomendada de leitura acima e depois avance para o journey que deseja estudar.
+
 ---
 
 ## 📘 Diretriz Padrão
 
 Todas as journeys seguem uma diretriz comum definida no arquivo:
 
-* `journey-guidelines.md`
+* **journey-standard.md**
 
 Este documento estabelece:
 
@@ -92,4 +106,8 @@ As journeys avançam de forma independente, respeitando seus próprios ritmos.
 
 ---
 
-> "Aprender é criar estrutura suficiente para que o conhecimento não se perca."
+Este ecossistema é desenvolvido com o apoio do **ChatGPT**, atuando como ferramenta de estudo, revisão, organização e documentação — sempre como suporte ao aprendizado, não substituto dele.
+
+---
+
+> "Aprender é criar estrutura suficiente para que o conhecimento não se perca — e organizá-la para que evolua."

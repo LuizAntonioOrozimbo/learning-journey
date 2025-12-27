@@ -1,14 +1,16 @@
-# JOURNEY-STANDARD
+# journey-standard.md
 
-Bem-vindo ao **Journey Standard** 👋 
-> **Padrão oficial para criação, organização e evolução de todos os Journeys** 
+Bem-vindo ao **Journey Standard** 👋
+> **Padrão oficial para criação, organização e evolução de todos os Journeys**
 
-Este documento faz parte do ecossistema **Learning Journey** e representa o **padrão oficial** para criação, organização e evolução de todos os repositórios do tipo *journey*.
+Este documento faz parte central do ecossistema **Learning Journey** e representa o **padrão oficial** para criação, organização e evolução de todos os repositórios do tipo *journey*.
+
+👉 AntesRecomenda-se a leitura do **[README principal do Learning Journey](./README.md)** antes de continuar.
 
 Aqui não está apenas uma convenção de pastas ou nomes de arquivos.  
 O **Journey Standard** define um **método de estudo**, uma identidade comum e uma forma consistente de transformar aprendizado em conhecimento organizado, rastreável e reaproveitável.
 
-Este padrão nasceu da prática contínua, de decisões conscientes ao longo das journeys e da necessidade real de manter clareza, progressão e controle em estudos de longo prazo.
+Este padrão nasceu da prática contínua, de decisões conscientes ao longo das Journeys e da necessidade real de manter clareza, progressão e controle em estudos de longo prazo.
 
 Se você está iniciando uma nova journey, revisando uma existente ou buscando entender a lógica por trás do ecossistema, este é o **ponto de partida correto**.
 
@@ -16,7 +18,7 @@ Se você está iniciando uma nova journey, revisando uma existente ou buscando e
 
 ## 🎯 Objetivo do Padrão
 
-Garantir que todos os journeys:
+Garantir que todos os Journeys:
 
 * Sigam uma **identidade comum**
 * Tenham **progressão didática clara**
@@ -217,5 +219,8 @@ Ele pode evoluir, desde que preserve:
 * clareza
 * organização
 * progressão didática
+
+Este padrão foi desenvolvido com o apoio do **ChatGPT** como ferramenta de estudo,
+organização, revisão conceitual e documentação ao longo das journeys.
 
 > "Método não limita — método sustenta."

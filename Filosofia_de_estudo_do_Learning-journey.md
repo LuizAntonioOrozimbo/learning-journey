@@ -37,7 +37,7 @@ Esta jornada é guiada pelos seguintes princípios:
 
 ---
 
-## 🧱 Estrutura Padrão de uma Journey
+<!-- ## 🧱 Estrutura Padrão de uma Journey
 
 Cada journey deve, sempre que possível, seguir esta estrutura:
 
@@ -58,7 +58,7 @@ Cada journey deve, sempre que possível, seguir esta estrutura:
 * **exemplos/** → códigos e aplicações práticas
 * **testes/** → experimentos, bifurcações e variações
 * **projetos/** → aplicações práticas consolidadas
-* **glossario.md** → termos e conceitos da journey
+* **glossario.md** → termos e conceitos da journey -->
 
 ---
 

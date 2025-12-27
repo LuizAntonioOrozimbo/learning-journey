@@ -16,6 +16,8 @@ Aqui você encontrará uma **jornada de aprendizado estruturada**, construída p
 Este não é apenas um repositório de código.  
 É um **registro vivo de aprendizado**, evolução e boas práticas.
 
+Este material é desenvolvido com o apoio do **ChatGPT** como ferramenta de estudo e organização.
+
 ---
 
 ## 🎯 Objetivo do Journey
@@ -30,7 +32,8 @@ Descreva aqui, em poucas linhas:
 
 ## 🗂 Estrutura do Repositório
 
-Este journey segue o **Journey Standard**, utilizando a seguinte estrutura base:
+Este journey segue o [Journey Standard](../learning-journey/JOURNEY-STANDARD.md)
+, utilizando a seguinte estrutura base:
 
 - `00-templates`
 - `01-introducao`
@@ -82,4 +85,3 @@ Manter organização, clareza e progressão faz parte do aprendizado.
 ---
 
 > "Aprender é um processo contínuo — documentar é parte essencial dele."
-
