@@ -15,7 +15,7 @@ Para compreender o ecossistema **Learning Journey**, recomenda-se a seguinte ord
 1. **README.md (este arquivo)** — Visão geral do ecossistema
 2. **[journey-standard.md](./journey-standard.md)** — Método e padrão oficial das journeys
 3. **[journey_standard_addendum.md](./journey_standard_addendum.md)** — Regras complementares
-4. **[Filosofia-de-estudo-do-Learning-journey.md](./Filosofia-de-estudo-do-Learning-journey.md)** — Filosofia e diretrizes de estudo
+4. **[Filosofia-de-estudo-do-Learning-journey.md](./Filosofia_de_estudo_do_Learning-journey.md)** — Filosofia e diretrizes de estudo
 5. **Templates** — Aplicação prática do padrão
 
 ---
