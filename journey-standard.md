@@ -5,7 +5,7 @@ Bem-vindo ao **Journey Standard** 👋
 
 Este documento faz parte central do ecossistema **Learning Journey** e representa o **padrão oficial** para criação, organização e evolução de todos os repositórios do tipo *journey*.
 
-👉 AntesRecomenda-se a leitura do **[README principal do Learning Journey](./README.md)** antes de continuar.
+👉 Antes, recomenda-se a leitura do **[README principal do Learning Journey](./README.md)** antes de continuar.
 
 Aqui não está apenas uma convenção de pastas ou nomes de arquivos.  
 O **Journey Standard** define um **método de estudo**, uma identidade comum e uma forma consistente de transformar aprendizado em conhecimento organizado, rastreável e reaproveitável.
