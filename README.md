@@ -1,8 +1,14 @@
 # learning-journey
 
+Bem-vindo ao **Learning Journey** 👋  
+
 Repositório central das **Journeys de Estudo**.
 
-Este repositório funciona como o **hub principal** de organização, padronização e orientação de todas as trilhas de aprendizado (journeys), independentemente da linguagem, tecnologia ou ferramenta.
+Este repositório funciona como o **hub central** de toda a estrutura de estudos, padronização e gerenciamento dos journeys individuais. 
+ 
+Aqui começa a organização — e é daqui que se parte para cada trilha específica. independentemente da linguagem, tecnologia ou ferramenta.
+
+Este não é um repositório técnico, mas sim **o ponto de partida** para entender o ecossistema de aprendizado, suas regras, filosofia e método.
 
 Ele **não substitui** os repositórios individuais de cada journey — ele os **coordena**.
 
